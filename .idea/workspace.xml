@@ -1,0 +1,727 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="cd9e0373-f062-4dfe-bc65-48b1c2b1c86a" name="Default" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/DoubanGroup$1111.coverage" NAME="1111 Coverage Results" MODIFIED="1515761686771" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../trytry" />
+    <SUITE FILE_PATH="coverage/DoubanGroup$doubantry.coverage" NAME="doubantry Coverage Results" MODIFIED="1515757103187" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/DoubanGroup/spiders" />
+    <SUITE FILE_PATH="coverage/DoubanGroup$xxx.coverage" NAME="xxx Coverage Results" MODIFIED="1515761710228" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../trytry" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="douban_0705.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/DoubanGroup/spiders/douban_0705.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1280">
+              <caret line="74" column="12" selection-start-line="74" selection-start-column="12" selection-end-line="74" selection-end-column="12" />
+              <folding>
+                <element signature="e#129#164#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="xxx.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../trytry/xxx.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="980">
+              <caret line="50" column="7" selection-start-line="50" selection-start-column="7" selection-end-line="50" selection-end-column="7" />
+              <folding>
+                <element signature="e#22#47#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="items.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/DoubanGroup/items.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="260">
+              <caret line="13" column="8" selection-start-line="13" selection-start-column="8" selection-end-line="13" selection-end-column="8" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="doubantry.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/DoubanGroup/spiders/doubantry.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="20">
+              <caret line="51" selection-start-line="51" selection-end-line="51" />
+              <folding>
+                <element signature="e#206#241#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="1111.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../trytry/1111.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret selection-end-line="8" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="try.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/DoubanGroup/spiders/try.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2320">
+              <caret line="121" column="17" selection-start-line="121" selection-start-column="17" selection-end-line="121" selection-end-column="17" />
+              <folding>
+                <element signature="e#27#54#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="settings.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/DoubanGroup/settings.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="580">
+              <caret line="29" selection-start-line="29" selection-end-line="29" selection-end-column="18" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/douban705.py" />
+        <option value="$PROJECT_DIR$/DoubanGroup/spiders/douban_0705.py" />
+        <option value="$PROJECT_DIR$/DoubanGroup/settings.py" />
+        <option value="$PROJECT_DIR$/DoubanGroup/spiders/douban_0710.py" />
+        <option value="$PROJECT_DIR$/DoubanGroup/spiders/try.py" />
+        <option value="$PROJECT_DIR$/DoubanGroup/spiders/doubantry.py" />
+        <option value="$PROJECT_DIR$/../trytry/1111.py" />
+        <option value="$PROJECT_DIR$/../trytry/xxx.py" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="y" value="23" />
+    <option name="width" value="1242" />
+    <option name="height" value="777" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="DoubanGroup" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DoubanGroup" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DoubanGroup" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DoubanGroup" type="462c0819:PsiDirectoryNode" />
+              <item name="DoubanGroup" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DoubanGroup" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DoubanGroup" type="462c0819:PsiDirectoryNode" />
+              <item name="DoubanGroup" type="462c0819:PsiDirectoryNode" />
+              <item name="spiders" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="PyConsoleOptionsProvider">
+    <option name="myPythonConsoleState">
+      <console-settings is-module-sdk="true">
+        <option name="myUseModuleSdk" value="true" />
+      </console-settings>
+    </option>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.xxx">
+    <configuration name="1111" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="DoubanGroup" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../trytry" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../trytry/1111.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="doubantry" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="DoubanGroup" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/DoubanGroup/spiders" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/DoubanGroup/spiders/doubantry.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="xxx" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="DoubanGroup" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../trytry" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../trytry/xxx.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Nosetests">
+      <module name="DoubanGroup" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_regexPattern" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;.&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.doubantry" />
+      <item itemvalue="Python.xxx" />
+      <item itemvalue="Python.1111" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.xxx" />
+        <item itemvalue="Python.1111" />
+        <item itemvalue="Python.doubantry" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration>$USER_HOME$/.subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="cd9e0373-f062-4dfe-bc65-48b1c2b1c86a" name="Default" comment="" />
+      <created>1499236988280</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1499236988280</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="23" width="1242" height="777" extended-state="6" />
+    <layout>
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.329927" />
+      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.39124086" />
+      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Python Console" order="7" weight="0.329927" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.25839415" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.23583333" />
+      <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
+      <window_info anchor="right" id="Database" order="3" />
+      <window_info anchor="right" id="SciView" order="3" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" id="Data View" order="3" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="3" />
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/DoubanGroup/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="580">
+          <caret line="29" selection-start-line="29" selection-end-line="29" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DoubanGroup/spiders/doubantry.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2820">
+          <caret line="151" column="17" lean-forward="true" selection-start-line="151" selection-start-column="17" selection-end-line="151" selection-end-column="17" />
+          <folding>
+            <element signature="e#206#241#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DoubanGroup/items.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="260">
+          <caret line="13" column="8" selection-start-line="13" selection-start-column="8" selection-end-line="13" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DoubanGroup/spiders/doubantry.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2860">
+          <caret line="153" selection-start-line="153" selection-end-line="153" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../trytry/1111.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DoubanGroup/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="580">
+          <caret line="29" selection-start-line="29" selection-end-line="29" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DoubanGroup/spiders/try.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2320">
+          <caret line="121" column="17" selection-start-line="121" selection-start-column="17" selection-end-line="121" selection-end-column="17" />
+          <folding>
+            <element signature="e#27#54#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../tutorial/tutorial/spiders/wangyiupdate421.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1080">
+          <caret line="54" column="79" selection-start-line="54" selection-start-column="75" selection-end-line="54" selection-end-column="79" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../05work/play0521.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3200">
+          <caret line="162" column="30" selection-start-line="162" selection-start-column="30" selection-end-line="162" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DoubanGroup/spiders/douban_0705.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#129#164#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DoubanGroup/spiders/doubantry.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="820">
+          <caret line="51" column="21" selection-start-line="51" selection-start-column="21" selection-end-line="51" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DoubanGroup/spiders/douban_0710.py" />
+    <entry file="file://$PROJECT_DIR$/DoubanGroup/spiders/try.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1780">
+          <caret line="94" column="71" selection-start-line="94" selection-start-column="65" selection-end-line="94" selection-end-column="71" />
+          <folding>
+            <element signature="e#27#54#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../05work/tutorial/tutorial/spiders/getproductid.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1140">
+          <caret line="59" column="28" selection-start-line="59" selection-start-column="28" selection-end-line="59" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../tutorial/tutorial/spiders/wangyiupdate514.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1020">
+          <caret line="56" column="31" selection-start-line="56" selection-start-column="24" selection-end-line="56" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../tutorial/tutorial/spiders/wangyiupdate421.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="920">
+          <caret line="54" column="79" selection-start-line="54" selection-start-column="75" selection-end-line="54" selection-end-column="79" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../05work/play0521.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3200">
+          <caret line="162" column="30" selection-start-line="162" selection-start-column="30" selection-end-line="162" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DoubanGroup/spiders/douban_0705.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1120">
+          <caret line="63" selection-start-line="63" selection-end-line="67" selection-end-column="103" />
+          <folding>
+            <element signature="e#129#164#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../05work/tutorial/tutorial/spiders/getproductid.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1140">
+          <caret line="59" column="28" lean-forward="true" selection-start-line="59" selection-start-column="28" selection-end-line="59" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../tutorial/tutorial/spiders/wangyiupdate514.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="280">
+          <caret line="14" column="64" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../tutorial/tutorial/spiders/wangyiupdate421.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="920">
+          <caret line="54" column="79" selection-start-line="54" selection-start-column="75" selection-end-line="54" selection-end-column="79" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../05work/play0521.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3200">
+          <caret line="162" column="30" selection-start-line="162" selection-start-column="30" selection-end-line="162" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DoubanGroup/spiders/try.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1580">
+          <caret line="84" column="33" lean-forward="true" selection-start-line="84" selection-start-column="33" selection-end-line="84" selection-end-column="33" />
+          <folding>
+            <element signature="e#27#54#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DoubanGroup/spiders/douban_0705.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#129#164#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DoubanGroup/spiders/try.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1120">
+          <caret line="60" column="38" lean-forward="true" selection-start-line="60" selection-start-column="38" selection-end-line="60" selection-end-column="38" />
+          <folding>
+            <element signature="e#27#54#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../tutorial/tutorial/spiders/wangyiupdate514.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="15" column="3" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../05work/play0521.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3200">
+          <caret line="162" column="30" lean-forward="true" selection-start-line="162" selection-start-column="30" selection-end-line="162" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DoubanGroup/spiders/douban_0705.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#129#164#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DoubanGroup/spiders/try.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1020">
+          <caret line="52" lean-forward="true" selection-start-line="52" selection-end-line="52" />
+          <folding>
+            <element signature="e#27#54#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DoubanGroup/spiders/douban_0705.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#129#164#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../tutorial/tutorial/spiders/wangyiupdate514.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1000">
+          <caret line="55" column="16" selection-start-line="55" selection-start-column="12" selection-end-line="55" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DoubanGroup/spiders/douban_0705.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#129#164#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../tutorial/tutorial/spiders/wangyiupdate514.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1000">
+          <caret line="55" column="16" selection-start-line="55" selection-start-column="12" selection-end-line="55" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DoubanGroup/spiders/douban_0705.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#129#164#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../tutorial/tutorial/spiders/wangyiupdate514.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1780">
+          <caret line="94" column="34" selection-start-line="94" selection-start-column="34" selection-end-line="94" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DoubanGroup/spiders/douban_0705.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#129#164#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/douban705.py" />
+    <entry file="file://$USER_HOME$/Library/Python/3.6/lib/python/site-packages/scrapy/spiders/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="127">
+          <caret line="68" column="8" selection-start-line="68" selection-start-column="8" selection-end-line="68" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../tutorial/tutorial/spiders/wangyiupdate421.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="920">
+          <caret line="54" column="79" selection-start-line="54" selection-start-column="75" selection-end-line="54" selection-end-column="79" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../05work/tutorial/tutorial/spiders/getproductid.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1140">
+          <caret line="59" column="28" selection-start-line="59" selection-start-column="28" selection-end-line="59" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../05work/play0521.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3180">
+          <caret line="162" column="30" selection-start-line="162" selection-start-column="30" selection-end-line="162" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../tutorial/tutorial/spiders/wangyiupdate514.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1780">
+          <caret line="94" column="34" selection-start-line="94" selection-start-column="34" selection-end-line="94" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DoubanGroup/spiders/douban_0710.py" />
+    <entry file="file://$PROJECT_DIR$/../trytry/changefulargument.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="620">
+          <caret line="31" column="12" selection-start-line="31" selection-start-column="12" selection-end-line="31" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../trytry/1111.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../trytry/xxx.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="980">
+          <caret line="50" column="7" selection-start-line="50" selection-start-column="7" selection-end-line="50" selection-end-column="7" />
+          <folding>
+            <element signature="e#22#47#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DoubanGroup/items.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="260">
+          <caret line="13" column="8" selection-start-line="13" selection-start-column="8" selection-end-line="13" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DoubanGroup/spiders/douban_0705.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1280">
+          <caret line="74" column="12" selection-start-line="74" selection-start-column="12" selection-end-line="74" selection-end-column="12" />
+          <folding>
+            <element signature="e#129#164#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DoubanGroup/spiders/try.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2320">
+          <caret line="121" column="17" selection-start-line="121" selection-start-column="17" selection-end-line="121" selection-end-column="17" />
+          <folding>
+            <element signature="e#27#54#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DoubanGroup/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="580">
+          <caret line="29" selection-start-line="29" selection-end-line="29" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DoubanGroup/spiders/doubantry.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="20">
+          <caret line="51" selection-start-line="51" selection-end-line="51" />
+          <folding>
+            <element signature="e#206#241#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
